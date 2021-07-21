@@ -18,7 +18,7 @@ You are expected to write the code for a binary classification model (phishing w
 
 **Project Guidelines**
 
-Begin by extracting the ipynb file.
+**Begin by extracting the ipynb file.**
 1 : Build a phishing website classifier using Logistic Regression with “C” parameter = 100.
 Use 70% of data as training data and remaining 30% as test data.
 (hint : use Scikit-Learn library LogisticRegression)
